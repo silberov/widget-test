@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/20078af6-d19c-4dda-88ae-8930eade9e3e/resourceGroups/SE-Tools/providers/Microsoft.Web/sites/quote-widget",
+  "appService.deploySubpath": "."
+}
